@@ -1,3 +1,3 @@
 # hello-world
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](hello-world/images.jpg)
 Format: ![Alt Text](url)
